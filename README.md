@@ -14,3 +14,33 @@ Big O Notation and Time Complexity are ways of discussing how long an algorithm 
 5.O(n<sup>2</sup>):Checking a list<br>
 6.O(infinity):flipping a coin<br>
 
+
+## What is DOM?
+
+***What is Document Object Model***
+
+-it is easy to use<br>
+
+
+
+
+
+--------
+Browser's internal programmatic represantation of the web page.<br>
+This is a type of API.<br>
+**Javascript Examples**
+
+
+------
+-document.getElementById(id)<br>
+-document.getElementByTagName(tag)<br>
+-document.createElement(name)<br>
+
+
+**Jquery Examples***
+
+
+----
+$('#box2').append("Tis is now in box2!")
+
+
