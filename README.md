@@ -44,3 +44,7 @@ This is a type of API.<br>
 $('#box2').append("Tis is now in box2!")
 
 
+**Header&Footer**
+DOM is why we put our CSS tags in the header and the script tags in the footer.
+
+
