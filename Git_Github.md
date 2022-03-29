@@ -12,13 +12,14 @@
 
 
 ### GITHUB WORKFLOW
-<ol>
-1.Branching
-2.Commits
-3.Pull&Requests
-4.Collaborate
-5.Merge
-</ol>
+
+1.Branching<br>
+2.Commits<br>
+3.Pull&Requests<br>
+4.Collaborate<br>
+5.Merge<br>
+
+
 ------
 
   
