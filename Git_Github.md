@@ -22,6 +22,13 @@
 
 ------
 
+
+### GITHUB OPEN SOURCE WORKFLOW
+
+1.**Fork:** Exact copy of Repository, under your account.<br>
+2.**Github Flow**<br>
+3.**Pull Requests**<br>
+
   
 
 
