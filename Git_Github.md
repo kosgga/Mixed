@@ -36,7 +36,7 @@
 ### CLONING REPOSITORIES
 
 <ul>
-  <li>What is **working locally** </li>  
+  <li>What is <b>working locally</b> </li>  
 </ul>
 
 
