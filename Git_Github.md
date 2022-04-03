@@ -36,11 +36,31 @@
 ### CLONING REPOSITORIES
 
 <ul>
-  <li>What is <b>working locally</b> </li>  
+  <li>What is <b>working locally?</b><br>
+  When you are working on github.com you are working totally on what is called "remote repository"</li>  
 </ul>
 
 
+
+### GIT COMMANDS(Command line)
+
++ **git clone** This is how you clone a repository down your local machine
++ **git pull**
++ **git branch**
++ **git checkout** Any commits that are made we want them to be on that specific branch
++ **git status**
++ **git add**
++ **git commit**
++ **git push**
+
+
   
+  
+ -------------------------
+ 
+ 
+ 
+ 
 
 
 
