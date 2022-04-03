@@ -13,7 +13,7 @@
 
 ### GITHUB WORKFLOW
 
-1.Branching<br>
+1.Branching: All of the code that was in production is on  a branch called 'master'.We don't ever want to make changes directly on to 'master'.First thing we need to do is creating an another branch.<br>
 2.Commits<br>
 3.Pull&Requests<br>
 4.Collaborate<br>
