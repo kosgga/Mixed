@@ -70,6 +70,9 @@
 
 
 --------------
+
+
+**SHA1-Hash: ** Secure Hashing Algorithm
  
  
  
