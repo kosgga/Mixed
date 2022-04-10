@@ -72,7 +72,15 @@
 --------------
 
 
-**SHA1-Hash: ** Secure Hashing Algorithm
+**Secure Hashing Algorithm sha1-hash** <br>
+
+----------
+
+### WHY WE NEED 2-STEP COMMIT?
+
+Any files in the working directory, if you want them to be included in the commit you need to use "git add" first.Once they are in the staging area after that once you run "git commit" and snapshot is created with sha1-hash coding.
+
+
  
  
  
