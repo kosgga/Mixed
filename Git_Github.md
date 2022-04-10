@@ -58,6 +58,16 @@
   
  -------------------------
  
+ ### WHAT IS A COMMIT?
+ 
+ + Commit is a Snapshot
+ + 40 Character SHA1-hash
+ + Includes blobs and metadata
+ + **Commit Id's are very important**
+
+
+--------------
+ 
  
  
  
