@@ -81,6 +81,24 @@
 Any files in the working directory, if you want them to be included in the commit you need to use "git add" first.Once they are in the staging area after that once you run "git commit" and snapshot is created with sha1-hash coding.
 
 
+
+--------
+
+
+### GIT MERGE
+
+In the Github workflow You create a branch, you make commits.Merge is used for bringing your changes back into master branch.
++ Remote(Github.com)
++ Local(git merge)
+
+
+------------
+
+
+
+
+
+
  
  
  
