@@ -96,6 +96,38 @@ In the Github workflow You create a branch, you make commits.Merge is used for b
 
 
 
+### GIT&GITHUB REBASING
+
+It is used for making your change history more linear.(time)
+
+
+
+----------
+
+### MERGE CONFLICTS
+
+Easy way to solve conflicts is using "git status".
+
+
+------------
+
+
+
+### UNDO COMMITS?
+
+
++ git revert: When you revert  you're not technically  undoing the commit you are actually creating a new commit with exact opposite changes  of whichever  commit you'd like to undo. This means the commit id remains unchanged
++ git reset
++ commit --amend: Change the word that you use in a commit message
++ cherry-pick:it changes the commit id
+
+
+
+----------
+
+
+
+
 
 
 
