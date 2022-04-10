@@ -30,6 +30,9 @@
 3.**Pull Requests**<br>
 
 
+**SHA1-Hash: **  Secure Hashing Algorithm
+
+
 ----------
 
 
