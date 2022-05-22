@@ -39,5 +39,5 @@ Imagine you want to connect devices across multiple cities or multiple continent
 
 #### WHAT IS A MAC ADDRESS?
 
-We have bunch of computers who want to talk to each other they don't have any names, so to bring the analogy of names and identification  to computers we have this concept of  MAC Address which is unique to each computer's Network Interface Card
+We have bunch of computers who want to talk to each other they don't have any names, so to bring the analogy of names and identification  to computers we have this concept of  MAC Address which is unique to each computer's Network Interface Card **How MAC addresses are represented?** We have hexadecimals for representing the MAC addresses.MAC Address is 6 Byte long or 48 Bits.
 
