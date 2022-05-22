@@ -29,3 +29,9 @@ LAN stands for local area network.
 
 They are likely human mouth and ears. Transmits and receives data. Networking communication
 
+
+
+#### WHAT IS WAN?
+
+Imagine you want to connect devices across multiple cities or multiple continents.That's a huge network  and that kind of network is called WAN.(Wide Area Network).
+
