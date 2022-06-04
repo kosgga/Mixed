@@ -48,3 +48,8 @@ We have bunch of computers who want to talk to each other they don't have any na
 
 When computers want to talk they share a medium(cable).
 Hey Computer B(NIC of Computer B Mac address)+This is Computer A(NIC of Computer A Mac address)+Message-->This message is put on the medium everybody  on this medium can listen the message.Message is addresed to B co other computers just silently ignores the message.
+
+
+#### COLLISION AVOIDANCE&COLLISION DETECTION
+
+Modern Networks.
